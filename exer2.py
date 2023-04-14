@@ -1,3 +1,4 @@
+#factorial of n numbers 
 num = int(input("Enter a number: "))  
 
 f = 1   
