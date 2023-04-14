@@ -1,3 +1,4 @@
+#to print the sum of n numbers 
 n = int(input("Enter the value of n: "))  
 
 sum = 0  # initialize sum to 0
